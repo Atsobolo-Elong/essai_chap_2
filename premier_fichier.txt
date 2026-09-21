@@ -1,6 +1,7 @@
 "premier fichier"
 
-"modification du fichier"
+Modification depuis le clone B
+
 
 Ligne 1
 Ligne 2
